@@ -10,7 +10,6 @@ Welcome to The Society Of Coders. We are excited to launch the official website 
 
 
 ## About the Club
-<<<<<<< HEAD
 TSoC is the official coding club of International Institute of Information Technology, Naya Raipur. The consists of two major sections - **CP Wing** and **Developement Wing**. There is no barring or restriction for club entry and anybody interested in coding is a part of the club. Although, for some exceptional students, we have an elite group - **TSoC Electica** where selected students will be provided exposure to advabced topics based on their choices.
 
 
@@ -28,18 +27,20 @@ The Competitive Programming Wing is dedicated to guide fresher students into the
 
 
 ## TSoC Electica
-=======
 TSoC is the official coding club of International Institute of Information Technology, Naya Raipur. The consists of two major sections - **Competitive Programming Wing** and **Development Wing**. There is no barring or restriction for club entry and anybody interested in coding is a part of the club. Although, for some exceptional students, we have an elite group - **TSoC Electica** where selected students will be provided exposure to advanced topics based on their choices.
+
+
 ## CP Wing
 ![pic-1](https://content.techgig.com/thumb/msid-76064853,width-860,resizemode-4/5-reasons-to-study-competitive-programming.jpg?96678)
-
 The Competitive Programming Wing (CP Wing) is dedicated to guide fresher students into the world of competitive programming and problem solving. Currently, it is led by Shyam Agarwal and Vinay Agarwal, batch of 2019. The CP wing will be taking weekly sessions to aid the students in various competitions on CodeChef and Codeforces and preparing students for competitions like ACM-ICPC and Google Kickstart. The CP Wing also organizes inter-college and intra-college coding competitions and hackathons to promote healthy competition and sporting spirit among students.
+
+
 ## Development Wing
 ![pic-2](https://www.flexsin.com/blog/wp-content/uploads/2019/12/Custom-Software-Development.jpg)
-
  The Development Wing of TSoC is responsible for promoting software development techniques and methodologies among students. Students are free to explore their interests in any domain like Web Development or Android Development. The Development Wing will guide the students on the basics of Git, GitHub, and setting up the development environments. The Development Wing also promotes Open Source and prepares students for Open Source events like GSoC and Hacktoberfest. Students can contact the Core members, in case of doubts or confusion. Currently, the Development Wing is headed by Abhik Jain from 2019 batch.
- ## TSoC Electica
->>>>>>> 28be2d69e934124565431d1512bf34726791a2b3
+
+
+## TSoC Electica
  ![pic-3](https://i2.wp.com/blogs.perficient.com/files/Are-You-Ready-for-Personalization.jpg?fit=1600%2C1116&ssl=1)
  Think you are better than others or deserve better? Are you up for the challenge? TSoC Electica provides you the platform to work directly with the core members and get a chance to oraganize sessions and competitions. Although it's not that easy! First you have to prove yourself. Following are the minimum requirements for a chance to be a part of TSoC Electica :
  - Having a highest rating of >=1600 in CodeChef or >=1300 in Codeforces for CP
@@ -50,9 +51,5 @@ Apart from the above mentioned criteria, a Core Member can also refer a student 
 
 ## Collaboration and Support
 ![pic-4](https://www.pgi.com/blog/wp-content/uploads/sites/2/2018/04/collaboration-diagnostic-660x330.jpg)
-
-<<<<<<< HEAD
 The main aim of this site is to promote the coding culture among the students in form of CP and Development. Students are free to share their ideas or talk about new emerging technologies through this portal. The Seniors and Alumni can also share their interview or work experiences in the portal. Want to share something? Contact the Core Members. Looking forward to working and progressing together!
-=======
 The main aim of this site is to promote the coding culture among the students in form of CP and Development. Students are free to share their ideas or talk about new emerging technologies through this portal. The Seniors and Alumni can also share their interview or work experiences in the portal. Want to share something? Contact the Core Members. Looking forward to working and progressing together!
->>>>>>> 28be2d69e934124565431d1512bf34726791a2b3

@@ -20,17 +20,13 @@ It was a technical interview round scheduled in mid-April on Zoom. It lasted for
 
 I wasn’t expecting coding questions in this interview for UI Development, but since I was active in April LeetCoding Challenge (solve one question every day), it helped me a lot! I mean, I was able to convert my logic into code within minutes. This definitely impressed the interviewer. Plus, the interviewer was really cool.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 28be2d69e934124565431d1512bf34726791a2b3
 ## Round 2 (BI Developer)
 It was a technical interview round scheduled in mid-April on Zoom. The duration was 30 minutes. There were two interviewers from Nasdaq New York office. They mostly asked me about my past experience with handling data. And also, about my skill set. I explained some of my projects involving extensive preprocessing involved.
 
 The next day I got the call from HR! She said I am offered the BI Developer role. Since it was my first preference, I accepted the offer and didn’t appear for the final interview round of the UI Development role.
 
 
-<<<<<<< HEAD
 ## Tips
 
 1. Consistent practice from [LeetCode](https://leetcode.com/)/[GeeksforGeeks](https://www.geeksforgeeks.org/), or be it some other platform you like.
@@ -38,6 +34,5 @@ The next day I got the call from HR! She said I am offered the BI Developer role
 3. Interviewers don’t expect interns to know everything. So be genuine and show enthusiasm to learn everything required from you.
 4. Stay composed and maintain a decent smile.
 5. Always keep at least 2 questions ready for the interviewer. This shows your interest to work in their company.
-=======
+
 The next day I got the call from HR! She said I am offered the BI Developer role. Since it was my first preference, I accepted the offer and didn’t appear for the final interview round of the UI Development role.
->>>>>>> 28be2d69e934124565431d1512bf34726791a2b3
