@@ -12,23 +12,18 @@
 @import "_colors/light-typography";
 @import "_colors/dark-typography";
 
-@mixin set-visible($light-display, $dark-display) {
-  [light-mode-invisible] {
-    display: $light-display;
-  }
-
-  [dark-mode-invisible] {
-    display: $dark-display;
-  }
-}
 
 @mixin mode-toggle($dark-mode: false) {
   @if $dark-mode {
-    @include set-visible(inline-block, none);
     @include dark-scheme;
+    .mode-toggle {
+      transform: rotateY(180deg);
+    }
   } @else {
-    @include set-visible(none, inline-block);
     @include light-scheme;
+    .mode-toggle {
+      transform: none;
+    }
   }
 }
 
@@ -191,7 +186,7 @@ $sidebar-display: "sidebar-display";
     #mode-toggle-wrapper {
       i {
         @include sidebar-links;
-        margin-right: 0;
+        margin: 0;
         font-size: 1.05rem;
         text-align: center;
         position: relative;
@@ -812,10 +807,10 @@ div.post-content .table-wrapper {
   word-wrap: break-word;
 
   @mixin img($caption: false) {
-    > img:not([style]) {
+    > img[data-src] {
       margin: 0.5rem 0;
 
-      &:not(.normal):not(.left):not(.right) {
+      &:not([class]) {
         @include align-center;
 
         @if $caption {
@@ -865,7 +860,35 @@ div.post-content .table-wrapper {
     font-size: 1.08rem;
     @include img(true);
   }// p
-}
+
+  ul {
+    &.task-list, &:not([class]) {
+      padding-left: 2rem;
+    }
+
+    // attribute 'hide-bullet' was added by liquid
+    .task-list-item[hide-bullet] {
+      list-style-type: none;
+
+      > i { // checkbox icon
+        margin: 0 .4rem .2rem -1.4rem;
+        vertical-align: middle;
+        color: var(--checkbox-color);
+        &.checked {
+          color: var(--checkbox-checked-color);
+        }
+      }
+
+    }
+
+    input[type=checkbox] {
+      margin: 0 .5rem .2rem -1.3rem;
+      vertical-align: middle;
+    }
+
+  } // ul
+
+} // .post-content
 
 .tag:hover {
   @extend %tag-hover;
@@ -990,13 +1013,6 @@ div.post-content .table-wrapper {
 
   .site-subtitle {
     @include ml-mr(1.8rem);
-  }
-
-  /* table text in small screens */
-  div > table, p ~ table {
-    width: 100%;
-    table-layout: fixed;
-    word-wrap: break-word;
   }
 
   #main-wrapper {
