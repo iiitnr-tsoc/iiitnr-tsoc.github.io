@@ -11,4 +11,18 @@ order: 5
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+<table>
+  <thead>
+    <tr>
+      <th><strong>Name</strong></th>
+      <th><strong>Karma</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for row in site.data.leaderboard %}
+    {% tablerow pair in row %}
+    {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+  </tbody>
+</table>
