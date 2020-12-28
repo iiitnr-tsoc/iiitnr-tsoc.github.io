@@ -2,6 +2,7 @@
 title: Introduction to TSoC
 date: 2020-12-10 17:30:00 +0530
 author: Ayush Mehar
+math: true
 ---
 
 ![pic](https://i.ibb.co/YDK6tR8/TSOC-LOGO-01-01.jpg)
@@ -25,7 +26,7 @@ The Competitive Programming Wing (CP Wing) is dedicated to guide fresher student
 ## TSoC Electica
  ![pic-3](https://i2.wp.com/blogs.perficient.com/files/Are-You-Ready-for-Personalization.jpg?fit=1600%2C1116&ssl=1)
  Think you are better than others or deserve better? Are you up for the challenge? TSoC Electica provides you the platform to work directly with the core members and get a chance to oraganize sessions and competitions. Although it's not that easy! First you have to prove yourself. Following are the minimum requirements for a chance to be a part of TSoC Electica :
- - Having a highest rating of >=1600 in CodeChef or >=1300 in Codeforces for CP
+ - Having a highest rating of \\(\geq 1600\\) in CodeChef or \\(\geq 1300\\) in Codeforces for CP
  - Having good development skills and projects or Open Source Contributions for Development
 
 Apart from the above mentioned criteria, a Core Member can also refer a student based on their skills. Note that there are no limitations for the number of students in TSoC Electica. Let's see how many of you can be a part of it?
