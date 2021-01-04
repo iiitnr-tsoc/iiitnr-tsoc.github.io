@@ -33,6 +33,6 @@ Apart from the above mentioned criteria, a Core Member can also refer a student 
 
 
 ## Collaboration and Support
-![pic-4](https://www.pgi.com/blog/wp-content/uploads/sites/2/2018/04/collaboration-diagnostic-660x330.jpg)
+![pic-4](https://www.pgi.com/blog/wp-content/uploads/sites/2/2018/04/collaboration-diagnostic-660x330.jpg)<br/>
 The main aim of this site is to promote the coding culture among the students in form of CP and Development. Students are free to share their ideas or talk about new emerging technologies through this portal. The Seniors and Alumni can also share their interview or work experiences in the portal. Want to share something? Contact the Core Members. Looking forward to working and progressing together!
 The main aim of this site is to promote the coding culture among the students in form of CP and Development. Students are free to share their ideas or talk about new emerging technologies through this portal. The Seniors and Alumni can also share their interview or work experiences in the portal. Want to share something? Contact the Core Members. Looking forward to working and progressing together!
